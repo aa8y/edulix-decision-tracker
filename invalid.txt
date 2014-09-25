@@ -1,0 +1,430 @@
+105951|912805|North Carolina State University, Raleigh|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105951|941875|North Carolina State University, Raleigh|false|01-02-2012|04-12-2011|computer science|1260.0|770.0|490.0|3.0|0|madras institute of technology anna univ|7.8|0.16666666666666666|info bank.
+105951|961105|North Carolina State University, Raleigh|false|13-03-2012|12-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+105638|909646|Pennsylvania State University, University Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105638|976501|Pennsylvania State University, University Park|true|09-02-2012|04-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+105638|909646|Pennsylvania State University, University Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105638|909646|Pennsylvania State University, University Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106725|921108|Arizona State University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106725|958105|Arizona State University|true|06-03-2012|null|electrical engineeringmixed signal|306.0|0.0|0.0|0.0|94|vtuece|71.0|3.0|nil/worked on embedded systems projects for 2yrs
+106725|958457|Arizona State University|true|08-03-2012|01-12-2011|eceanalog and mixed signal vlsi|299.0|0.0|0.0|0.0|99|vtueampc b v b college of engineering and technology hubli|0.0|1.8|5 projects in undergraduate course.
+106725|976572|Arizona State University|true|04-04-2012|01-12-2012|ms cs|1460.0|3.0|0.0|0.0|104|mumbai universtity be computer engineering|63.64|1.8|publications/ projects - nill
+106725|981058|Arizona State University|true|11-04-2012|05-10-2011|ms cs|307.0|340.0|0.0|0.0|95|amity university|82.7|0.0|null
+106725|984699|Arizona State University|true|16-04-2012|25-11-0001|ms cs|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+106021|913436|TU Delft , The Netherlands Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106021|916515|TU Delft , The Netherlands Fall 2012|false|27-11-2011|24-10-2011|embedded systems|0.0|0.0|0.0|0.0|99|anna universitybeece|81.0|0.0|one international paper,several national level papers
+106021|916690|TU Delft , The Netherlands Fall 2012|true|28-11-2012|18-02-0074|embedded systems|0.0|0.0|0.0|0.0|115|university of mumbaietrx engg|69.8|1.0|1 publication in review, one international project, several national/state level projects, 2 patents in application, training for matlab, simulink, amesim.
+106021|917840|TU Delft , The Netherlands Fall 2012|true|13-12-2011|20-10-2011|mech engineering solid and fluid mechanics|0.0|0.0|0.0|0.0|101|me|7.47|4.0|4 projects, few awards and copyrights
+106021|951276|TU Delft , The Netherlands Fall 2012|true|12-12-2011|31-07-0167|msc in precision and microsystems enggautomotive spec|0.0|0.0|0.0|0.0|0|srm university mechatronics|8.406|0.5|quite a few
+106021|961171|TU Delft , The Netherlands Fall 2012|true|12-03-2012|17-12-2011|sustainable process amp energy technology|0.0|0.0|0.0|0.0|97|college of engineering guindy  anna university mechnical|7.91|0.0|
+106021|964709|TU Delft , The Netherlands Fall 2012|true|15-02-2012|24-11-20111|computer science track information architecture|0.0|0.0|0.0|0.0|109|electronics amp communication|8.33|0.3333333333333333|2 projects , one for kpn
+106021|976569|TU Delft , The Netherlands Fall 2012|true|03-04-2012|02-01-2012|electrical engineering  telecommunications|0.0|0.0|0.0|0.0|91|gitam university ap ece|8.7|0.0|2 projects and 1 presentation, 1 workshop @ bits pilani, member n active participant at several student bodies
+106021|1015385|TU Delft , The Netherlands Fall 2012|true|06-06-2012|01-04-2012|engineering and policy analysis msc|0.0|0.0|0.0|0.0|7|computer science|3.62|0.3333333333333333|na
+106021|1019228|TU Delft , The Netherlands Fall 2012|true|10-06-2012|01-04-2012|msc electrical micro electronics|0.0|0.0|0.0|0.0|7|electronics and communciation engineering|75.0|3.0|1 ieee publication
+106021|913436|TU Delft , The Netherlands Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106021|916515|TU Delft , The Netherlands Fall 2012|false|27-11-2011|24-10-2011|embedded systems|0.0|0.0|0.0|0.0|99|anna universitybeece|81.0|0.0|one international paper,several national level papers
+106021|916690|TU Delft , The Netherlands Fall 2012|true|28-11-2012|18-02-0074|embedded systems|0.0|0.0|0.0|0.0|115|university of mumbaietrx engg|69.8|1.0|1 publication in review, one international project, several national/state level projects, 2 patents in application, training for matlab, simulink, amesim.
+106021|917840|TU Delft , The Netherlands Fall 2012|true|13-12-2011|20-10-2011|mech engineering solid and fluid mechanics|0.0|0.0|0.0|0.0|101|me|7.47|4.0|4 projects, few awards and copyrights
+106021|913436|TU Delft , The Netherlands Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106021|916515|TU Delft , The Netherlands Fall 2012|false|27-11-2011|24-10-2011|embedded systems|0.0|0.0|0.0|0.0|99|anna universitybeece|81.0|0.0|one international paper,several national level papers
+106021|916690|TU Delft , The Netherlands Fall 2012|true|28-11-2012|18-02-0074|embedded systems|0.0|0.0|0.0|0.0|115|university of mumbaietrx engg|69.8|1.0|1 publication in review, one international project, several national/state level projects, 2 patents in application, training for matlab, simulink, amesim.
+106021|917840|TU Delft , The Netherlands Fall 2012|true|13-12-2011|20-10-2011|mech engineering solid and fluid mechanics|0.0|0.0|0.0|0.0|101|me|7.47|4.0|4 projects, few awards and copyrights
+106021|913436|TU Delft , The Netherlands Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106021|916515|TU Delft , The Netherlands Fall 2012|false|27-11-2011|24-10-2011|embedded systems|0.0|0.0|0.0|0.0|99|anna universitybeece|81.0|0.0|one international paper,several national level papers
+106021|916690|TU Delft , The Netherlands Fall 2012|true|28-11-2012|18-02-0074|embedded systems|0.0|0.0|0.0|0.0|115|university of mumbaietrx engg|69.8|1.0|1 publication in review, one international project, several national/state level projects, 2 patents in application, training for matlab, simulink, amesim.
+106021|917840|TU Delft , The Netherlands Fall 2012|true|13-12-2011|20-10-2011|mech engineering solid and fluid mechanics|0.0|0.0|0.0|0.0|101|me|7.47|4.0|4 projects, few awards and copyrights
+106717|921092|University of California, Santa Barbara|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106717|921092|University of California, Santa Barbara|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106717|921092|University of California, Santa Barbara|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106717|921092|University of California, Santa Barbara|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+103198|887441|Texas A&amp;M University,College Station Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+103198|944181|Texas A&amp;M University,College Station Fall 2012|false|02-02-2012|10-12-2011|mis|670.0|670.0|0.0|0.0|112|vtu|78.0|1.5|na
+103198|947936|Texas A&amp;M University,College Station Fall 2012|false|13-02-2012|28-01-0002|eceee|311.0|158.0|153.0|3.0|0|uop|72.15|4.0|no publications/1 project
+103198|947940|Texas A&amp;M University,College Station Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|no publications/1 project
+103198|954591|Texas A&amp;M University,College Station Fall 2012|true|28-02-2012|03-02-2012|is|1370.0|730.0|640.0|3.5|0|bitspilani information systems|7.4|3.0|nothing special.
+103198|966139|Texas A&amp;M University,College Station Fall 2012|false|21-03-2012|13-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+103198|975575|Texas A&amp;M University,College Station Fall 2012|true|03-04-2012|01-03-2012|ms ece signal proc amp comm sys|1400.0|800.0|600.0|3.5|0|bits pilani goa  eie|0.0|1.5|one good project in wireless comm, one paper, two internships
+103198|975935|Texas A&amp;M University,College Station Fall 2012|false|31-12-2099|28-11-2012|ms ece comp arch|325.0|167.0|158.0|0.0|0|msrit vtu electrical engg|0.0|0.0|4 projects
+103198|976487|Texas A&amp;M University,College Station Fall 2012|true|29-03-2012|10-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+106739|921307|University of Texas, Austin|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106739|961661|University of Texas, Austin|true|12-03-2012|null|ms  cs|1450.0|0.0|0.0|0.0|118|bits pilani goa campus information systems|8.81|0.5|2 publications, related projects
+106739|961730|University of Texas, Austin|true|13-03-2012|null|ms  cs|319.0|340.0|0.0|0.0|107|nit nagpurcs|9.19|2.0|internship at microsoft
+106739|921307|University of Texas, Austin|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106739|961661|University of Texas, Austin|true|12-03-2012|null|ms  cs|1450.0|0.0|0.0|0.0|118|bits pilani goa campus information systems|8.81|0.5|2 publications, related projects
+106739|961730|University of Texas, Austin|true|13-03-2012|null|ms  cs|319.0|340.0|0.0|0.0|107|nit nagpurcs|9.19|2.0|internship at microsoft
+106739|921307|University of Texas, Austin|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106739|961661|University of Texas, Austin|true|12-03-2012|null|ms  cs|1450.0|0.0|0.0|0.0|118|bits pilani goa campus information systems|8.81|0.5|2 publications, related projects
+106739|961730|University of Texas, Austin|true|13-03-2012|null|ms  cs|319.0|340.0|0.0|0.0|107|nit nagpurcs|9.19|2.0|internship at microsoft
+106739|921307|University of Texas, Austin|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106739|961661|University of Texas, Austin|true|12-03-2012|null|ms  cs|1450.0|0.0|0.0|0.0|118|bits pilani goa campus information systems|8.81|0.5|2 publications, related projects
+106739|961730|University of Texas, Austin|true|13-03-2012|null|ms  cs|319.0|340.0|0.0|0.0|107|nit nagpurcs|9.19|2.0|internship at microsoft
+106674|920554|Virginia Tech|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106674|941268|Virginia Tech|false|31-01-2012|16-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106674|955612|Virginia Tech|false|28-02-2012|16-01-2012|mechanical engineering|317.0|166.0|151.0|3.0|0|s a engineering college anna universitymechanical engg|86.0|2.5|2 projects.
+106674|961998|Virginia Tech|true|07-03-2012|21-12-2011|mechanical engineering|1310.0|790.0|520.0|3.0|0|national institute of technology karnataka nitk mech engg|7.2|0.0|null
+106674|963764|Virginia Tech|true|07-03-2012|12-08-0167|mechanical engineering|329.0|167.0|162.0|4.0|0|delhi college of engg mech engg|76.0|2.5|publications: none,couple of projects
+106674|920554|Virginia Tech|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106674|941268|Virginia Tech|false|31-01-2012|16-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106674|955612|Virginia Tech|false|28-02-2012|16-01-2012|mechanical engineering|317.0|166.0|151.0|3.0|0|s a engineering college anna universitymechanical engg|86.0|2.5|2 projects.
+106674|961998|Virginia Tech|true|07-03-2012|21-12-2011|mechanical engineering|1310.0|790.0|520.0|3.0|0|national institute of technology karnataka nitk mech engg|7.2|0.0|null
+106674|963764|Virginia Tech|true|07-03-2012|12-08-0167|mechanical engineering|329.0|167.0|162.0|4.0|0|delhi college of engg mech engg|76.0|2.5|publications: none,couple of projects
+106674|920554|Virginia Tech|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106674|941268|Virginia Tech|false|31-01-2012|16-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106674|955612|Virginia Tech|false|28-02-2012|16-01-2012|mechanical engineering|317.0|166.0|151.0|3.0|0|s a engineering college anna universitymechanical engg|86.0|2.5|2 projects.
+106674|961998|Virginia Tech|true|07-03-2012|21-12-2011|mechanical engineering|1310.0|790.0|520.0|3.0|0|national institute of technology karnataka nitk mech engg|7.2|0.0|null
+106674|963764|Virginia Tech|true|07-03-2012|12-08-0167|mechanical engineering|329.0|167.0|162.0|4.0|0|delhi college of engg mech engg|76.0|2.5|publications: none,couple of projects
+106806|922139|University Of Maryland- College Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106806|962644|University Of Maryland- College Park|false|14-03-2012|01-12-2012|enee controls|318.0|0.0|0.0|0.0|115|univ of mumbai etrx engg|69.89|0.0|null
+106806|976506|University Of Maryland- College Park|false|18-03-2012|10-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+106806|922139|University Of Maryland- College Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106806|962644|University Of Maryland- College Park|false|14-03-2012|01-12-2012|enee controls|318.0|0.0|0.0|0.0|115|univ of mumbai etrx engg|69.89|0.0|null
+106806|922139|University Of Maryland- College Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106806|962644|University Of Maryland- College Park|false|14-03-2012|01-12-2012|enee controls|318.0|0.0|0.0|0.0|115|univ of mumbai etrx engg|69.89|0.0|null
+106806|922139|University Of Maryland- College Park|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106806|962644|University Of Maryland- College Park|false|14-03-2012|01-12-2012|enee controls|318.0|0.0|0.0|0.0|115|univ of mumbai etrx engg|69.89|0.0|null
+107813|934715|Singapore Universities FALL 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107813|995451|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|msc in knowledge management coursework|0.0|0.0|0.0|0.0|92|btech it|7.9|1.5|nil
+107813|995642|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|meng ece|0.0|0.0|0.0|0.0|104|btech ece|8.7|1.5|siemens
+107813|995754|Singapore Universities FALL 2012|false|03-05-2012|02-02-2012|sce msc in embedded systems coursework|327.0|157.0|170.0|145.0|0|btech eee|8.406|1.5|one conference paper published in the
+107813|995976|Singapore Universities FALL 2012|false|03-05-2012|23-01-2012|msc in knowledge management|0.0|0.0|0.0|0.0|0|btech mechanical engineering|7.2|2.5|na
+107813|999585|Singapore Universities FALL 2012|true|09-05-2012|19-02-2012|msc smart product design|331.0|161.0|170.0|147.0|0|mahatma gandhi university electrical and electronics engineering|81.3|1.8|few projects, no publications
+107813|1000123|Singapore Universities FALL 2012|false|10-05-2012|15-02-2012|communication engineering|0.0|0.0|0.0|0.0|0|sastra university electronics amp communication|8.58|1.9|no publications. have worked in a couple of projects in my company in sap.
+107813|1000133|Singapore Universities FALL 2012|false|10-05-2012|27-01-2012|msc in electronics coursework|0.0|0.0|0.0|0.0|0|btech ece|9.85|1.8|nil
+107813|1001949|Singapore Universities FALL 2012|false|14-05-0012|27-02-2012|electrical engineering  automation amp control|0.0|0.0|0.0|0.0|99|vtu  instrumentation|9.22|1.0|public transport information system and home automation
+107813|1015829|Singapore Universities FALL 2012|true|01-05-2012|28-02-2012|msc embedded systems course work|0.0|0.0|0.0|0.0|0|srm university btech ece|9.103|1.5|few good projects
+107813|934715|Singapore Universities FALL 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107813|995451|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|msc in knowledge management coursework|0.0|0.0|0.0|0.0|92|btech it|7.9|1.5|nil
+107813|995642|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|meng ece|0.0|0.0|0.0|0.0|104|btech ece|8.7|1.5|siemens
+107813|995754|Singapore Universities FALL 2012|false|03-05-2012|02-02-2012|sce msc in embedded systems coursework|327.0|157.0|170.0|145.0|0|btech eee|8.406|1.5|one conference paper published in the
+107813|995976|Singapore Universities FALL 2012|false|03-05-2012|23-01-2012|msc in knowledge management|0.0|0.0|0.0|0.0|0|btech mechanical engineering|7.2|2.5|na
+107813|999585|Singapore Universities FALL 2012|true|09-05-2012|19-02-2012|msc smart product design|331.0|161.0|170.0|147.0|0|mahatma gandhi university electrical and electronics engineering|81.3|1.8|few projects, no publications
+107813|1000123|Singapore Universities FALL 2012|false|10-05-2012|15-02-2012|communication engineering|0.0|0.0|0.0|0.0|0|sastra university electronics amp communication|8.58|1.9|no publications. have worked in a couple of projects in my company in sap.
+107813|1000133|Singapore Universities FALL 2012|false|10-05-2012|27-01-2012|msc in electronics coursework|0.0|0.0|0.0|0.0|0|btech ece|9.85|1.8|nil
+107813|934715|Singapore Universities FALL 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107813|995451|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|msc in knowledge management coursework|0.0|0.0|0.0|0.0|92|btech it|7.9|1.5|nil
+107813|995642|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|meng ece|0.0|0.0|0.0|0.0|104|btech ece|8.7|1.5|siemens
+107813|995754|Singapore Universities FALL 2012|false|03-05-2012|02-02-2012|sce msc in embedded systems coursework|327.0|157.0|170.0|145.0|0|btech eee|8.406|1.5|one conference paper published in the
+107813|995976|Singapore Universities FALL 2012|false|03-05-2012|23-01-2012|msc in knowledge management|0.0|0.0|0.0|0.0|0|btech mechanical engineering|7.2|2.5|na
+107813|999585|Singapore Universities FALL 2012|true|09-05-2012|19-02-2012|msc smart product design|331.0|161.0|170.0|147.0|0|mahatma gandhi university electrical and electronics engineering|81.3|1.8|few projects, no publications
+107813|1000123|Singapore Universities FALL 2012|false|10-05-2012|15-02-2012|communication engineering|0.0|0.0|0.0|0.0|0|sastra university electronics amp communication|8.58|1.9|no publications. have worked in a couple of projects in my company in sap.
+107813|1000133|Singapore Universities FALL 2012|false|10-05-2012|27-01-2012|msc in electronics coursework|0.0|0.0|0.0|0.0|0|btech ece|9.85|1.8|nil
+107813|934715|Singapore Universities FALL 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107813|995451|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|msc in knowledge management coursework|0.0|0.0|0.0|0.0|92|btech it|7.9|1.5|nil
+107813|995642|Singapore Universities FALL 2012|false|03-05-2012|31-01-2012|meng ece|0.0|0.0|0.0|0.0|104|btech ece|8.7|1.5|siemens
+107813|995754|Singapore Universities FALL 2012|false|03-05-2012|02-02-2012|sce msc in embedded systems coursework|327.0|157.0|170.0|145.0|0|btech eee|8.406|1.5|one conference paper published in the
+107813|995976|Singapore Universities FALL 2012|false|03-05-2012|23-01-2012|msc in knowledge management|0.0|0.0|0.0|0.0|0|btech mechanical engineering|7.2|2.5|na
+107813|999585|Singapore Universities FALL 2012|true|09-05-2012|19-02-2012|msc smart product design|331.0|161.0|170.0|147.0|0|mahatma gandhi university electrical and electronics engineering|81.3|1.8|few projects, no publications
+107813|1000123|Singapore Universities FALL 2012|false|10-05-2012|15-02-2012|communication engineering|0.0|0.0|0.0|0.0|0|sastra university electronics amp communication|8.58|1.9|no publications. have worked in a couple of projects in my company in sap.
+107813|1000133|Singapore Universities FALL 2012|false|10-05-2012|27-01-2012|msc in electronics coursework|0.0|0.0|0.0|0.0|0|btech ece|9.85|1.8|nil
+106020|904359|University of Pennsylvania -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106020|904359|University of Pennsylvania -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106722|921102|University of Florida, Gainesville|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106722|978076|University of Florida, Gainesville|false|31-12-2099|null|ms civil coastal|316.0|167.0|149.0|316.0|0|iit kharagpur ocean engg amp naval architecture|7.3|0.16666666666666666|1 project in l&amp;t,
+106722|979951|University of Florida, Gainesville|false|31-12-2099|13-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106722|998653|University of Florida, Gainesville|false|31-12-2099|null||0.0|0.0|0.0|0.0|102||0.0|0.0|no publications. few good projects
+106722|921102|University of Florida, Gainesville|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106203|933290|CLEMSON University FALL 2012|true|22-12-2012|01-11-2012|industrial engineering|1360.0|0.0|0.0|0.0|102|mahatma gandhi university|63.0|1.0|academic projects
+106203|937473|CLEMSON University FALL 2012|true|24-01-2012|14-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106203|972245|CLEMSON University FALL 2012|true|29-03-2012|10-01-2012|ms in automotive engineering|1150.0|730.0|420.0|3.0|0|anna university easwari engineering college  mechanical|0.0|0.0|none/ 1 final year project in college + 1 design and fabrication project related to mobility in college.
+106203|933290|CLEMSON University FALL 2012|true|22-12-2012|01-11-2012|industrial engineering|1360.0|0.0|0.0|0.0|102|mahatma gandhi university|63.0|1.0|academic projects
+106203|937473|CLEMSON University FALL 2012|true|24-01-2012|14-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106203|933290|CLEMSON University FALL 2012|true|22-12-2012|01-11-2012|industrial engineering|1360.0|0.0|0.0|0.0|102|mahatma gandhi university|63.0|1.0|academic projects
+106203|937473|CLEMSON University FALL 2012|true|24-01-2012|14-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106203|933290|CLEMSON University FALL 2012|true|22-12-2012|01-11-2012|industrial engineering|1360.0|0.0|0.0|0.0|102|mahatma gandhi university|63.0|1.0|academic projects
+106203|937473|CLEMSON University FALL 2012|true|24-01-2012|14-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106367|917366|Purdue University Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106367|939586|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|bits pilani cs|8.5|2.5|3 projects
+106367|939684|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|psg tech  msc software engineering|9.29|0.08333333333333333|1 publication and 2 internships
+106367|939687|Purdue University Fall 2012|true|28-01-2012|11-12-2011|ms computer science  machine learning|1430.0|0.0|0.0|0.0|116|ssn college of engineering|71.0|0.75|2 papers and quite a few projects
+106367|939688|Purdue University Fall 2012|true|28-01-2012|10-12-2011|ms computer sciencesystems|0.0|0.0|0.0|0.0|113|manit bhopalcse|8.88|1.5|none/couple of good projects
+106367|939831|Purdue University Fall 2012|true|28-01-2012|12-12-2011|ms computer sciencedata mining|0.0|0.0|0.0|0.0|115|bitshydcse|8.13|0.0|none/couple of good projects
+106367|939868|Purdue University Fall 2012|true|28-01-2012|23-11-2011|ms computer science|1420.0|0.0|0.0|0.0|104|vtu cse|8.47|0.4166666666666667|decent academic projects. no publications or research exp
+106367|941176|Purdue University Fall 2012|true|28-01-2012|06-12-2011|ms computer science|1410.0|0.0|0.0|0.0|110|vtu  cs|755.0|0.08333333333333333|
+106367|976508|Purdue University Fall 2012|true|28-01-2012|09-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+106367|917366|Purdue University Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106367|939586|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|bits pilani cs|8.5|2.5|3 projects
+106367|939684|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|psg tech  msc software engineering|9.29|0.08333333333333333|1 publication and 2 internships
+106367|939687|Purdue University Fall 2012|true|28-01-2012|11-12-2011|ms computer science  machine learning|1430.0|0.0|0.0|0.0|116|ssn college of engineering|71.0|0.75|2 papers and quite a few projects
+106367|939688|Purdue University Fall 2012|true|28-01-2012|10-12-2011|ms computer sciencesystems|0.0|0.0|0.0|0.0|113|manit bhopalcse|8.88|1.5|none/couple of good projects
+106367|939831|Purdue University Fall 2012|true|28-01-2012|12-12-2011|ms computer sciencedata mining|0.0|0.0|0.0|0.0|115|bitshydcse|8.13|0.0|none/couple of good projects
+106367|939868|Purdue University Fall 2012|true|28-01-2012|23-11-2011|ms computer science|1420.0|0.0|0.0|0.0|104|vtu cse|8.47|0.4166666666666667|decent academic projects. no publications or research exp
+106367|941176|Purdue University Fall 2012|true|28-01-2012|06-12-2011|ms computer science|1410.0|0.0|0.0|0.0|110|vtu  cs|755.0|0.08333333333333333|
+106367|917366|Purdue University Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106367|939586|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|bits pilani cs|8.5|2.5|3 projects
+106367|939684|Purdue University Fall 2012|true|28-01-2012|15-12-2011|ms computer science|0.0|0.0|0.0|0.0|110|psg tech  msc software engineering|9.29|0.08333333333333333|1 publication and 2 internships
+106367|939687|Purdue University Fall 2012|true|28-01-2012|11-12-2011|ms computer science  machine learning|1430.0|0.0|0.0|0.0|116|ssn college of engineering|71.0|0.75|2 papers and quite a few projects
+106367|939688|Purdue University Fall 2012|true|28-01-2012|10-12-2011|ms computer sciencesystems|0.0|0.0|0.0|0.0|113|manit bhopalcse|8.88|1.5|none/couple of good projects
+106367|939831|Purdue University Fall 2012|true|28-01-2012|12-12-2011|ms computer sciencedata mining|0.0|0.0|0.0|0.0|115|bitshydcse|8.13|0.0|none/couple of good projects
+106367|939868|Purdue University Fall 2012|true|28-01-2012|23-11-2011|ms computer science|1420.0|0.0|0.0|0.0|104|vtu cse|8.47|0.4166666666666667|decent academic projects. no publications or research exp
+106367|941176|Purdue University Fall 2012|true|28-01-2012|06-12-2011|ms computer science|1410.0|0.0|0.0|0.0|110|vtu  cs|755.0|0.08333333333333333|
+106646|920375|University Of Southern California|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106646|985493|University Of Southern California|true|17-04-2012|21-01-0012|cs|1370.0|800.0|570.0|4.5|0|pune university  cs|0.0|1.5|couple of projects at ug level and one at work.
+106646|986459|University Of Southern California|true|31-07-0167|18-04-0012|cs computer security|1200.0|780.0|420.0|3.5|0|srm university  cse|0.0|2.0|couple of projects at ug level and one at work.
+106646|920375|University Of Southern California|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106810|922149|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106810|945271|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|2 publications. 2 projects. 2 international conferences. 20 paper presentations including conferences with 12 best paper awards.
+106810|957172|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|true|03-03-2012|11-12-2011|mis 16 months track|307.0|0.0|0.0|0.0|104|nmims cs|3.0|2.0|2 projects + good extra curricular activities. own venture in web services since 2005.
+106810|957329|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|true|05-03-2012|24-12-2011|mis 12 month track|316.0|0.0|0.0|0.0|110|beit|0.0|3.0|multiple datawarehousing projects.
+106810|958635|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|true|08-03-2012|22-12-2011|mism  1 year track|670.0|670.0|0.0|0.0|101|bputcivil engg|7.34|4.7|null
+106810|960466|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|true|09-03-2012|08-12-2012|mechanical engineering|319.0|0.0|0.0|0.0|114|pune university|0.0|1.0|null
+106810|964687|Carnegie Mellon University Pennsylvania (Only for Pittsburgh Campus)|true|18-03-2012|16-01-2012|msistmini|1440.0|640.0|800.0|0.0|0|umichcomputer engineering|0.0|1.0|author research paper /several research projects
+106431|917937|University of Cincinnati|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106431|917956|University of Cincinnati|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|2 publications/plethora of projects ( 4 at college, multiple at work)
+106431|917968|University of Cincinnati|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106431|918001|University of Cincinnati|true|14-12-2011|22-10-2010|msis|698.0|650.0|48.0|32.0|109|rgpv bhopal|3.02|2.0|1 at work and a few at nmims
+106431|918376|University of Cincinnati|false|15-12-2011|15-11-2011|msis|85.0|49.0|36.0|5.0|110|computer science engineering|69.45|6.0|lost count...
+106431|919309|University of Cincinnati|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106431|925443|University of Cincinnati|true|15-12-2012|14-11-2012|msis|670.0|670.0|0.0|0.0|112|vtueampc|78.0|2.0|1 final yr project in college.
+106431|925700|University of Cincinnati|true|15-12-2012|14-11-2012|msis|749.0|700.0|49.0|35.0|108|vtueee|79.0|2.1666666666666665|1 final yr project in college.
+106431|951609|University of Cincinnati|true|16-02-2012|04-07-2017|msis|699.0|650.0|49.0|30.0|100|pune university|58.0|4.0|null
+106431|987355|University of Cincinnati|true|17-04-2012|04-12-0057|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+106431|1006732|University of Cincinnati|false|18-03-2012|01-02-2012|mba|0.0|0.0|0.0|0.0|110|armed forces medical college|4.0|5.2|government projects as lt. in army , sba and pm roles.
+106805|922137|Northeastern University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106805|960802|Northeastern University|true|10-03-2012|06-01-2012|ms telecommunication system managementnetworking|310.0|163.0|147.0|3.5|0|uptuece|0.0|2.0|null
+106805|961668|Northeastern University|true|12-03-2012|07-12-2012|ms computer science|1260.0|760.0|500.0|3.0|0|mu computer engineering|0.0|2.0|null
+106805|992169|Northeastern University|true|10-03-2012|15-12-2012|ms in tsm|1300.0|0.0|0.0|0.0|84|uopeamptc|0.0|0.25|none/2 + ccna ccnp
+106805|996211|Northeastern University|true|04-05-2012|01-08-0167|ms in industrial engineering|1270.0|0.0|0.0|0.0|100|mumbai university  information tech|0.0|1.75|none
+106805|1003872|Northeastern University|true|22-03-2012|02-03-2012|information systems|312.0|162.0|150.0|0.0|0|ptucs|64.0|2.5|publications/projects etc 2 undergrad proj/1 publication
+106805|922137|Northeastern University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106698|920876|University Of Colorado ,Boulder|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106698|974843|University Of Colorado ,Boulder|false|02-04-2012|05-11-2012|msece embedded systems|1340.0|800.0|40.0|2.5|100|uptu  electronics and telcommunication|69.4|2.0|none/4 projects
+106698|920876|University Of Colorado ,Boulder|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107081|925496|Columbia University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107081|976493|Columbia University|true|06-03-2012|14-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+107081|980035|Columbia University|true|10-04-2012|14-12-2011|ms cs systems|309.0|159.0|150.0|3.5|0|rvce  vtu|0.0|3.0|relevant projects at a research center but no publications.
+107081|925496|Columbia University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107081|925496|Columbia University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107081|925496|Columbia University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106404|917685|University of Minnesota, Twin Cities|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106404|946123|University of Minnesota, Twin Cities|false|null|15-12-2011|electrical and computer engineering wireless communication and networking|0.0|0.0|0.0|0.0|111||8.65|0.25|
+106404|953464|University of Minnesota, Twin Cities|true|20-01-2012|31-07-0167|mechanical engineering|1300.0|0.0|0.0|0.0|111|bitsmechanical|9.41|0.3333333333333333|internship under daad wise
+106404|988075|University of Minnesota, Twin Cities|false|20-04-2012|13-12-2011|mechanical engineering|1290.0|760.0|530.0|3.0|0|sri venkateswara college of engineeringsvce anna universitymechanical engg|8.3|0.0|2 projects related my field of design.
+108556|946953|University of North Carolina Charlotte|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108556|946953|University of North Carolina Charlotte|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108556|946953|University of North Carolina Charlotte|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108556|946953|University of North Carolina Charlotte|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105637|909645|Georgia Institute of Technology, Atlanta|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105637|970021|Georgia Institute of Technology, Atlanta|true|14-03-2012|12-08-0167|ms bioinformatics|1510.0|0.0|0.0|0.0|115|btech biotech srm university|0.0|0.0|null
+105637|973016|Georgia Institute of Technology, Atlanta|true|26-03-2012|03-06-2018|ms or|331.0|5.0|166.0|4.5|110|iit madras mech|66.8|6.0|no publications
+105637|981485|Georgia Institute of Technology, Atlanta|false|31-12-2099|01-02-2012|ms in cs|1390.0|790.0|600.0|0.0|0|sastra university btech cse|7.98|2.0|working in a drdo proj.. till now no publication ..
+105637|982389|Georgia Institute of Technology, Atlanta|false|12-04-2012|15-01-2012|ms in computer science|321.0|166.0|155.0|4.0|0|mumbai universitycomputer engg|68.0|3.0|working with a defense systems r&amp;d company on multiple projects. no publications
+105637|982474|Georgia Institute of Technology, Atlanta|false|13-04-2012|02-11-2011|ms in electrical engineering|317.0|170.0|147.0|4.0|0|anna universityelectronics amp instrumentation engineering|9.0|0.0|see my unisearch profile
+105637|982697|Georgia Institute of Technology, Atlanta|false|13-04-2012|01-12-2011|ms in ece  telecom|1350.0|790.0|560.0|4.0|0|panjab university chandigarh electronics and communications engineering|77.56|0.0|no publications, 3 projects
+105637|982971|Georgia Institute of Technology, Atlanta|false|12-04-2012|29-11-2011|ms in ce|321.0|0.0|0.0|0.0|110|null|0.0|0.0|null
+105637|997745|Georgia Institute of Technology, Atlanta|true|04-05-2012|03-11-2012|ms infosec|1270.0|720.0|550.0|3.0|0|vtu cs|0.0|3.0|null
+106390|900965|Syracuse University-Fall 2012|true|19-11-0028|11-10-2011|ms ce|310.0|340.0|0.0|0.0|95|amity universitycsampe|8.12|0.16666666666666666|3 projects,1 article got published in amity network and security club magazine
+106390|958534|Syracuse University-Fall 2012|true|23-02-2012|30-01-2012|electrical|303.0|158.0|145.0|3.0|0|ece|8.5|0.0|ibm, forusheath
+106390|988463|Syracuse University-Fall 2012|true|01-04-2012|24-12-2011|mis|312.0|3.0|5.0|0.0|93|null|0.0|0.0|null
+106390|900965|Syracuse University-Fall 2012|true|19-11-0028|11-10-2011|ms ce|310.0|340.0|0.0|0.0|95|amity universitycsampe|8.12|0.16666666666666666|3 projects,1 article got published in amity network and security club magazine
+106390|900965|Syracuse University-Fall 2012|true|19-11-0028|11-10-2011|ms ce|310.0|340.0|0.0|0.0|95|amity universitycsampe|8.12|0.16666666666666666|3 projects,1 article got published in amity network and security club magazine
+105089|888798|Rochester Institute of Technology Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105089|982414|Rochester Institute of Technology Fall 2012|true|13-04-2012|31-07-0167|mscs|1030.0|0.0|0.0|0.0|96|bput btechelect|7.87|2.0|null
+105089|888798|Rochester Institute of Technology Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105089|888798|Rochester Institute of Technology Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+109015|954661|University of California ,Irvine|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+109015|954754|University of California ,Irvine|true|31-07-0167|17-11-2012|ms networked systems|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+109015|966792|University of California ,Irvine|false|21-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+109015|967986|University of California ,Irvine|true|22-03-2012|01-01-2012|ms eecs|315.0|340.0|0.0|0.0|110|rajasthan technical university ece department|67.5|1.0|2 electronic projects at college level, 1 project at isro for summer internship, few computer related certifications
+109015|982989|University of California ,Irvine|true|14-04-2012|10-08-0167|ms ecesignal processing|1340.0|760.0|580.0|4.0|0|cegece|8.47|0.0|nil/run of the mill+1 intern
+109015|983022|University of California ,Irvine|true|14-04-2012|11-08-0167|ms ecevlsi|1410.0|800.0|610.0|3.0|0|mu extc|66.0|0.0|a few projects in intended major
+109015|983029|University of California ,Irvine|true|14-04-2012|12-08-0167|ms ece css|1490.0|800.0|690.0|4.0|0|mu electronics|69.0|2.5|few projects
+109015|983041|University of California ,Irvine|true|14-04-2012|12-08-0167|ms ecesignal processing|1200.0|800.0|400.0|3.5|0|nagpur universityextc|78.91|1.5|nil/2 in final year.
+109015|983156|University of California ,Irvine|true|14-04-2012|12-08-0167|ms ecesignal processing|302.0|158.0|144.0|2.5|0|sjce vtueampc|75.6|1.5|nil/1 in final year with philips health care
+109015|985418|University of California ,Irvine|false|31-07-0167|04-01-2012|eecs deptcomp enggembedded|321.0|0.0|0.0|0.0|110|null|7.5|0.0|null
+109015|954661|University of California ,Irvine|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+109015|954754|University of California ,Irvine|true|31-07-0167|17-11-2012|ms networked systems|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+109015|966792|University of California ,Irvine|false|21-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+109015|967986|University of California ,Irvine|true|22-03-2012|01-01-2012|ms eecs|315.0|340.0|0.0|0.0|110|rajasthan technical university ece department|67.5|1.0|2 electronic projects at college level, 1 project at isro for summer internship, few computer related certifications
+109015|954661|University of California ,Irvine|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+109015|954754|University of California ,Irvine|true|31-07-0167|17-11-2012|ms networked systems|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+109015|966792|University of California ,Irvine|false|21-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+109015|967986|University of California ,Irvine|true|22-03-2012|01-01-2012|ms eecs|315.0|340.0|0.0|0.0|110|rajasthan technical university ece department|67.5|1.0|2 electronic projects at college level, 1 project at isro for summer internship, few computer related certifications
+109015|954661|University of California ,Irvine|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+109015|954754|University of California ,Irvine|true|31-07-0167|17-11-2012|ms networked systems|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+109015|966792|University of California ,Irvine|false|21-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+109015|967986|University of California ,Irvine|true|22-03-2012|01-01-2012|ms eecs|315.0|340.0|0.0|0.0|110|rajasthan technical university ece department|67.5|1.0|2 electronic projects at college level, 1 project at isro for summer internship, few computer related certifications
+106741|921340|NYU -POLY -Fall 2012|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106741|969756|NYU -POLY -Fall 2012|true|31-07-0167|null|mechanical engineering|1330.0|750.0|580.0|3.0|0|kerala univ mechanical engineering|6.03|0.0|nothin much to brag abt
+106741|993840|NYU -POLY -Fall 2012|false|26-04-2012|null|enviornmental engineering|311.0|0.0|0.0|0.0|0|bput|8.11|0.0|2
+106741|921340|NYU -POLY -Fall 2012|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106741|969756|NYU -POLY -Fall 2012|true|31-07-0167|null|mechanical engineering|1330.0|750.0|580.0|3.0|0|kerala univ mechanical engineering|6.03|0.0|nothin much to brag abt
+106741|993840|NYU -POLY -Fall 2012|false|26-04-2012|null|enviornmental engineering|311.0|0.0|0.0|0.0|0|bput|8.11|0.0|2
+106741|921340|NYU -POLY -Fall 2012|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106741|969756|NYU -POLY -Fall 2012|true|31-07-0167|null|mechanical engineering|1330.0|750.0|580.0|3.0|0|kerala univ mechanical engineering|6.03|0.0|nothin much to brag abt
+106741|993840|NYU -POLY -Fall 2012|false|26-04-2012|null|enviornmental engineering|311.0|0.0|0.0|0.0|0|bput|8.11|0.0|2
+106741|921340|NYU -POLY -Fall 2012|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106741|969756|NYU -POLY -Fall 2012|true|31-07-0167|null|mechanical engineering|1330.0|750.0|580.0|3.0|0|kerala univ mechanical engineering|6.03|0.0|nothin much to brag abt
+106741|993840|NYU -POLY -Fall 2012|false|26-04-2012|null|enviornmental engineering|311.0|0.0|0.0|0.0|0|bput|8.11|0.0|2
+106811|922152|University Of Michigan Ann Arbor -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106811|922152|University Of Michigan Ann Arbor -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106811|922152|University Of Michigan Ann Arbor -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106811|922152|University Of Michigan Ann Arbor -Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106305|880089|University of Texas, Dallas Fall 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|publication/projects:
+106305|901699|University of Texas, Dallas Fall 2012|true|27-10-2012|04-10-2012|ms cs|310.0|340.0|0.0|0.0|95|amity universitycsampe|8.12|0.16666666666666666|3 projects and 1 article got published in amity network and security club magazine.
+106305|921844|University of Texas, Dallas Fall 2012|true|08-11-2012|06-11-2012|ms cs|302.0|0.0|0.0|0.0|86|cusat cs|77.26|3.0|cluster computing, samsung galaxy series related.
+106305|929551|University of Texas, Dallas Fall 2012|true|05-01-2012|30-11-2011|ms computer engineering|323.0|340.0|0.0|0.0|109|vtu|78.0|0.0|nil/ 1 project+workshop
+106305|930707|University of Texas, Dallas Fall 2012|true|05-01-2012|23-11-2011|msee|330.0|340.0|0.0|0.0|96|vitu|8.1|0.0|nil
+106305|932029|University of Texas, Dallas Fall 2012|true|12-01-2012|12-12-0010|computer science|320.0|340.0|0.0|0.0|108|nit allahabad|7.67|1.0|1 publication / 3 projects
+106305|932109|University of Texas, Dallas Fall 2012|true|12-01-2012|13-12-2011|computer science|314.0|340.0|0.0|0.0|103|rtu kota|73.0|0.0|4 projects
+106305|946190|University of Texas, Dallas Fall 2012|false|null|05-12-2011|ms cs|304.0|0.0|0.0|0.0|91|null|0.0|2.0|null
+106305|949749|University of Texas, Dallas Fall 2012|true|06-02-2012|29-01-2012|ms ee|312.0|162.0|150.0|0.0|0|jaypee university of information tech  ece|0.0|2.5|nil / couple of projects (check infobank).
+106305|996519|University of Texas, Dallas Fall 2012|true|03-05-2012|23-04-2012|ms in itm|305.0|5.0|156.0|3.5|99|vtu  be in cs|68.0|4.0|
+106718|921094|University of California, San Diego|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106718|976119|University of California, San Diego|true|03-04-2012|null|ms computer science|321.0|165.0|156.0|3.0|0|computer engineering ece|3.97|1.0|no publication and notable research experience
+106718|921094|University of California, San Diego|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106718|976119|University of California, San Diego|true|03-04-2012|null|ms computer science|321.0|165.0|156.0|3.0|0|computer engineering ece|3.97|1.0|no publication and notable research experience
+106718|921094|University of California, San Diego|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106718|976119|University of California, San Diego|true|03-04-2012|null|ms computer science|321.0|165.0|156.0|3.0|0|computer engineering ece|3.97|1.0|no publication and notable research experience
+106718|921094|University of California, San Diego|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106718|976119|University of California, San Diego|true|03-04-2012|null|ms computer science|321.0|165.0|156.0|3.0|0|computer engineering ece|3.97|1.0|no publication and notable research experience
+99091|858098|Ohio State University, Columbus|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99091|957212|Ohio State University, Columbus|false|null|null|null|1410.0|0.0|0.0|0.0|0|null|0.0|0.0|null
+99091|971407|Ohio State University, Columbus|true|28-03-2012|20-11-2012|ms cs|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+99091|983930|Ohio State University, Columbus|true|09-04-2012|11-01-2011|ms in cs|326.0|164.0|162.0|4.0|0|nit calicut eee|7.99|2.5|2 decent undergrad projects
+99091|858098|Ohio State University, Columbus|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99091|957212|Ohio State University, Columbus|false|null|null|null|1410.0|0.0|0.0|0.0|0|null|0.0|0.0|null
+99091|858098|Ohio State University, Columbus|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99091|957212|Ohio State University, Columbus|false|null|null|null|1410.0|0.0|0.0|0.0|0|null|0.0|0.0|null
+105967|912958|SUNY Buffalo|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105967|966886|SUNY Buffalo|false|31-12-2099|01-08-0167|ms ie|317.0|166.0|151.0|3.0|0|anna university  s a engineering college   mechanical|86.0|2.0|couple of projects in college and 1 in the industry.
+105967|972480|SUNY Buffalo|true|20-02-2012|31-01-2012|msmis|298.0|149.0|149.0|3.0|0|srmit|0.0|2.5|no. projects in college and school.
+106644|920365|Rutgers University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106644|964998|Rutgers University|true|16-03-2012|11-08-0167|ms in mechanical|1300.0|0.0|0.0|0.0|107|mech pu|65.0|0.0|null
+106644|920365|Rutgers University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106644|964998|Rutgers University|true|16-03-2012|11-08-0167|ms in mechanical|1300.0|0.0|0.0|0.0|107|mech pu|65.0|0.0|null
+106644|920365|Rutgers University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106644|964998|Rutgers University|true|16-03-2012|11-08-0167|ms in mechanical|1300.0|0.0|0.0|0.0|107|mech pu|65.0|0.0|null
+106644|920365|Rutgers University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106644|964998|Rutgers University|true|16-03-2012|11-08-0167|ms in mechanical|1300.0|0.0|0.0|0.0|107|mech pu|65.0|0.0|null
+106467|918371|George Mason University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106467|948052|George Mason University|true|13-02-2012|11-10-2011|ms cs|310.0|340.0|0.0|0.0|95|amity universitybtechcsampe|8.12|0.16666666666666666|3 projects
+106467|992170|George Mason University|true|11-12-2011|10-01-2012|ms in ee|1300.0|0.0|0.0|0.0|84|uopeamptc|0.0|0.25|none/2 + ccna ccnp
+106467|918371|George Mason University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106467|948052|George Mason University|true|13-02-2012|11-10-2011|ms cs|310.0|340.0|0.0|0.0|95|amity universitybtechcsampe|8.12|0.16666666666666666|3 projects
+106467|992170|George Mason University|true|11-12-2011|10-01-2012|ms in ee|1300.0|0.0|0.0|0.0|84|uopeamptc|0.0|0.25|none/2 + ccna ccnp
+106467|918371|George Mason University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106467|948052|George Mason University|true|13-02-2012|11-10-2011|ms cs|310.0|340.0|0.0|0.0|95|amity universitybtechcsampe|8.12|0.16666666666666666|3 projects
+106467|992170|George Mason University|true|11-12-2011|10-01-2012|ms in ee|1300.0|0.0|0.0|0.0|84|uopeamptc|0.0|0.25|none/2 + ccna ccnp
+106467|918371|George Mason University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106467|948052|George Mason University|true|13-02-2012|11-10-2011|ms cs|310.0|340.0|0.0|0.0|95|amity universitybtechcsampe|8.12|0.16666666666666666|3 projects
+106467|992170|George Mason University|true|11-12-2011|10-01-2012|ms in ee|1300.0|0.0|0.0|0.0|84|uopeamptc|0.0|0.25|none/2 + ccna ccnp
+106720|921099|Iowa State University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106720|921099|Iowa State University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106720|921099|Iowa State University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106720|921099|Iowa State University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106813|922162|Stony Brook University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106813|967819|Stony Brook University|true|19-03-0012|01-01-0012|ee|303.0|145.0|158.0|3.0|0|msrit ece|8.5|0.0|ibm remote mentoring program, intern at forushealth, final year proj on car security system using fingerprint, gsm, gps
+106813|971903|Stony Brook University|true|27-03-0012|14-01-0012|cs|1370.0|800.0|570.0|4.5|0|pune university  cs|0.0|1.5|couple of projects at ug level and one at work.
+106813|922162|Stony Brook University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106813|967819|Stony Brook University|true|19-03-0012|01-01-0012|ee|303.0|145.0|158.0|3.0|0|msrit ece|8.5|0.0|ibm remote mentoring program, intern at forushealth, final year proj on car security system using fingerprint, gsm, gps
+106813|971903|Stony Brook University|true|27-03-0012|14-01-0012|cs|1370.0|800.0|570.0|4.5|0|pune university  cs|0.0|1.5|couple of projects at ug level and one at work.
+106813|922162|Stony Brook University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106813|967819|Stony Brook University|true|19-03-0012|01-01-0012|ee|303.0|145.0|158.0|3.0|0|msrit ece|8.5|0.0|ibm remote mentoring program, intern at forushealth, final year proj on car security system using fingerprint, gsm, gps
+106813|971903|Stony Brook University|true|27-03-0012|14-01-0012|cs|1370.0|800.0|570.0|4.5|0|pune university  cs|0.0|1.5|couple of projects at ug level and one at work.
+106809|922146|University Of Illinois Urbana Champaign|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106809|957045|University Of Illinois Urbana Champaign|true|02-03-2012|null|business school finance|1330.0|0.0|0.0|0.0|111|k j somaiya coe vidyavihar mumbai|65.0|1.0|null
+106809|966882|University Of Illinois Urbana Champaign|true|21-03-2012|13-10-2011|msthesis cs|1350.0|0.0|0.0|0.0|110|bits pilani behons computer science|9.73|0.5|2 publications, one in intl journal and other in springer
+106809|968002|University Of Illinois Urbana Champaign|true|21-03-2012|05-03-2011|ms technology management|309.0|164.0|145.0|0.0|0|jntu btech electronics amp computers|0.0|7.0|none
+106809|976513|University Of Illinois Urbana Champaign|false|16-03-2012|06-12-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+106809|922146|University Of Illinois Urbana Champaign|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106809|922146|University Of Illinois Urbana Champaign|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106673|920552|University of Massachusetts Amherst (UMASS)|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106673|949723|University of Massachusetts Amherst (UMASS)|true|14-02-2012|26-12-2012|ms ece  vlsicadembedded program|312.0|162.0|150.0|0.0|0|jaypee university of information techece|8.3|2.5|no publications, couple of projects (check infobank).
+106673|951526|University of Massachusetts Amherst (UMASS)|true|21-02-2012|20-10-2012|mscs|1430.0|800.0|630.0|0.0|0|nitkcomputer engineering|7.1|2.5|no publications.
+106673|976491|University of Massachusetts Amherst (UMASS)|false|12-03-2012|28-11-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+106673|920552|University of Massachusetts Amherst (UMASS)|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106673|920552|University of Massachusetts Amherst (UMASS)|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105739|930335|University of Illinois, Chicago|true|05-12-2011|10-08-2011|ece  computer engineering ce|1220.0|0.0|0.0|0.0|104|jntu  btech ece  final year|77.0|0.0|nil
+105739|951331|University of Illinois, Chicago|false|22-02-2012|25-12-2011|computer science|1260.0|770.0|490.0|3.0|0|madras institute of technology anna univ|7.8|0.16666666666666666|2 publications in ieee conference, for project refer info bank.
+105739|956567|University of Illinois, Chicago|false|31-12-2099|01-01-2011|computer science|311.0|158.0|153.0|3.0|0|rgpv bhopal|76.0|2.7|refer profile.
+105739|959497|University of Illinois, Chicago|false|31-12-2099|25-01-2012|ms mis|311.0|160.0|151.0|3.0|0|bits pilani|6.7|2.1|1 research project.
+105739|959736|University of Illinois, Chicago|true|10-03-2012|26-12-2012|ms cs|309.0|159.0|150.0|3.0|0|r v college of engineering vtu|80.0|3.0|1 research project, 1 national level paper.
+105739|959755|University of Illinois, Chicago|true|10-03-2012|31-07-0167|ms cs|1260.0|790.0|470.0|3.0|0|osmania univmvsr engg collegeit|78.0|2.0|nothing greaat
+105739|930335|University of Illinois, Chicago|true|05-12-2011|10-08-2011|ece  computer engineering ce|1220.0|0.0|0.0|0.0|104|jntu  btech ece  final year|77.0|0.0|nil
+106812|922157|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106812|939201|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|2 publications, multiple projects
+106812|940156|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106812|972854|Indiana University ,Bloomington|false|14-03-2012|05-11-2011|null|1310.0|780.0|530.0|3.0|0|null|72.0|0.16666666666666666|none
+106812|978792|Indiana University ,Bloomington|false|06-04-2012|31-07-0167|computer science|307.0|0.0|0.0|0.0|100|mumbai univ computer engg|67.0|1.5|none
+106812|922157|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106812|939201|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|2 publications, multiple projects
+106812|940156|Indiana University ,Bloomington|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107463|930564|San Jose State University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107463|980069|San Jose State University|true|04-04-2012|01-11-2012|ms in cs|1460.0|326.0|0.0|0.0|104|muce|63.64|1.5|nothing significant
+107463|930564|San Jose State University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107463|980069|San Jose State University|true|04-04-2012|01-11-2012|ms in cs|1460.0|326.0|0.0|0.0|104|muce|63.64|1.5|nothing significant
+107463|930564|San Jose State University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107463|980069|San Jose State University|true|04-04-2012|01-11-2012|ms in cs|1460.0|326.0|0.0|0.0|104|muce|63.64|1.5|nothing significant
+107463|930564|San Jose State University|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107463|980069|San Jose State University|true|04-04-2012|01-11-2012|ms in cs|1460.0|326.0|0.0|0.0|104|muce|63.64|1.5|nothing significant
+108817|951483|University Of Utah|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108817|969159|University Of Utah|true|24-03-2012|31-07-0167|msis|309.0|164.0|145.0|3.5|0|sreenidhi institute of science and technologyjntu  electronics amp computers|70.0|7.0|nil
+108817|951483|University Of Utah|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108817|969159|University Of Utah|true|24-03-2012|31-07-0167|msis|309.0|164.0|145.0|3.5|0|sreenidhi institute of science and technologyjntu  electronics amp computers|70.0|7.0|nil
+108817|951483|University Of Utah|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108817|969159|University Of Utah|true|24-03-2012|31-07-0167|msis|309.0|164.0|145.0|3.5|0|sreenidhi institute of science and technologyjntu  electronics amp computers|70.0|7.0|nil
+108817|951483|University Of Utah|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+108817|969159|University Of Utah|true|24-03-2012|31-07-0167|msis|309.0|164.0|145.0|3.5|0|sreenidhi institute of science and technologyjntu  electronics amp computers|70.0|7.0|nil
+104503|898256|University Of Texas, Arlington Fall 2012|true|14-11-2011|17-10-2011|ms cs nonthesis fall2012|1270.0|3.0|0.0|0.0|93|csvtu|67.0|1.8333333333333333|3
+104503|936175|University Of Texas, Arlington Fall 2012|true|20-12-2011|23-11-2011|ms cs nonthesis fall2012|297.0|3.0|0.0|0.0|85|csjntu|74.0|3.5|worked on java projects as a professional developer. one more java proj as part of the academics.
+104503|950023|University Of Texas, Arlington Fall 2012|true|01-02-2012|03-12-2011|ms mechanical engg|1080.0|770.0|310.0|3.5|0|null|0.0|2.0|publication/projects: 2 academic projects.
+104503|964019|University Of Texas, Arlington Fall 2012|true|21-02-2012|08-10-2011|ms cse nonthesis fall2012|1270.0|3.0|5.0|0.0|107|eeebangalore university|63.0|0.75|done miniprojects creating a java based application. also made several apps as an ios developer
+104503|974336|University Of Texas, Arlington Fall 2012|false|04-08-2017|01-02-2018|ms csnon thesis|292.0|156.0|136.0|3.0|0|sastra university|70.0|2.7|1 paper/ 1 ug project
+104503|898256|University Of Texas, Arlington Fall 2012|true|14-11-2011|17-10-2011|ms cs nonthesis fall2012|1270.0|3.0|0.0|0.0|93|csvtu|67.0|1.8333333333333333|3
+104503|936175|University Of Texas, Arlington Fall 2012|true|20-12-2011|23-11-2011|ms cs nonthesis fall2012|297.0|3.0|0.0|0.0|85|csjntu|74.0|3.5|worked on java projects as a professional developer. one more java proj as part of the academics.
+104503|950023|University Of Texas, Arlington Fall 2012|true|01-02-2012|03-12-2011|ms mechanical engg|1080.0|770.0|310.0|3.5|0|null|0.0|2.0|publication/projects: 2 academic projects.
+104503|898256|University Of Texas, Arlington Fall 2012|true|14-11-2011|17-10-2011|ms cs nonthesis fall2012|1270.0|3.0|0.0|0.0|93|csvtu|67.0|1.8333333333333333|3
+104503|936175|University Of Texas, Arlington Fall 2012|true|20-12-2011|23-11-2011|ms cs nonthesis fall2012|297.0|3.0|0.0|0.0|85|csjntu|74.0|3.5|worked on java projects as a professional developer. one more java proj as part of the academics.
+104503|950023|University Of Texas, Arlington Fall 2012|true|01-02-2012|03-12-2011|ms mechanical engg|1080.0|770.0|310.0|3.5|0|null|0.0|2.0|publication/projects: 2 academic projects.
+104503|898256|University Of Texas, Arlington Fall 2012|true|14-11-2011|17-10-2011|ms cs nonthesis fall2012|1270.0|3.0|0.0|0.0|93|csvtu|67.0|1.8333333333333333|3
+104503|936175|University Of Texas, Arlington Fall 2012|true|20-12-2011|23-11-2011|ms cs nonthesis fall2012|297.0|3.0|0.0|0.0|85|csjntu|74.0|3.5|worked on java projects as a professional developer. one more java proj as part of the academics.
+104503|950023|University Of Texas, Arlington Fall 2012|true|01-02-2012|03-12-2011|ms mechanical engg|1080.0|770.0|310.0|3.5|0|null|0.0|2.0|publication/projects: 2 academic projects.
+106716|921091|University of California, Los Angeles|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106716|969121|University of California, Los Angeles|true|22-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+106716|971614|University of California, Los Angeles|false|31-07-0167|04-05-2018|ms cs|1380.0|750.0|630.0|0.0|0|vtu rvce  cs|80.0|2.5|no publications, but really good networking projects in the company in streaming domain.
+106716|971738|University of California, Los Angeles|false|28-03-2012|null|ms cs|1530.0|0.0|0.0|0.0|120|anna university computer science|8.2|0.0|4 conf pubs + 1 journal pub / good academic projects
+106716|921091|University of California, Los Angeles|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106716|969121|University of California, Los Angeles|true|22-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+106716|971614|University of California, Los Angeles|false|31-07-0167|04-05-2018|ms cs|1380.0|750.0|630.0|0.0|0|vtu rvce  cs|80.0|2.5|no publications, but really good networking projects in the company in streaming domain.
+106716|971738|University of California, Los Angeles|false|28-03-2012|null|ms cs|1530.0|0.0|0.0|0.0|120|anna university computer science|8.2|0.0|4 conf pubs + 1 journal pub / good academic projects
+106716|921091|University of California, Los Angeles|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106716|969121|University of California, Los Angeles|true|22-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+106716|971614|University of California, Los Angeles|false|31-07-0167|04-05-2018|ms cs|1380.0|750.0|630.0|0.0|0|vtu rvce  cs|80.0|2.5|no publications, but really good networking projects in the company in streaming domain.
+106716|971738|University of California, Los Angeles|false|28-03-2012|null|ms cs|1530.0|0.0|0.0|0.0|120|anna university computer science|8.2|0.0|4 conf pubs + 1 journal pub / good academic projects
+106716|921091|University of California, Los Angeles|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106716|969121|University of California, Los Angeles|true|22-03-2012|04-05-2018|electrical and computer science|1320.0|760.0|560.0|3.5|0|mit  anna university ece|8.75|0.0|intern at iisc bglre, inplant at nokia, air
+106716|971614|University of California, Los Angeles|false|31-07-0167|04-05-2018|ms cs|1380.0|750.0|630.0|0.0|0|vtu rvce  cs|80.0|2.5|no publications, but really good networking projects in the company in streaming domain.
+106716|971738|University of California, Los Angeles|false|28-03-2012|null|ms cs|1530.0|0.0|0.0|0.0|120|anna university computer science|8.2|0.0|4 conf pubs + 1 journal pub / good academic projects
+106719|921095|Cornell University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106719|973656|Cornell University|false|31-12-2099|null|mengg cs|1470.0|0.0|0.0|0.0|108|becse|8.91|3.0|publications/ projects - few good projects in intel/college
+106719|921095|Cornell University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106719|921095|Cornell University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+106719|921095|Cornell University|false|31-12-2099|null||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105957|912846|University of Wisconsin Madison|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105957|976510|University of Wisconsin Madison|true|18-03-2012|29-11-2011|ms cs systems|1350.0|800.0|550.0|3.5|0|ceg btech it|0.0|5.0|relevant projects at a research center but no publications.
+105957|912846|University of Wisconsin Madison|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+105957|912846|University of Wisconsin Madison|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107797|934574|University Of Arizona, Tucson|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107797|963556|University Of Arizona, Tucson|true|16-03-2012|19-12-2012|ms computer science|1260.0|770.0|490.0|3.0|0|madras institute of technology|7.8|0.16666666666666666|2 publications in ieee conference iccsit
+107797|971425|University Of Arizona, Tucson|true|21-03-2012|30-11-2012|computer sciencemasters|1200.0|800.0|400.0|0.0|0|anna universityvelammal enggcs|81.5|2.0|/2 projects
+107797|934574|University Of Arizona, Tucson|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+107797|934574|University Of Arizona, Tucson|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99090|858096|University of Texas, Dallas Spring 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99090|863774|University of Texas, Dallas Spring 2012|true|05-09-2012|15-08-2012|msitm|1190.0|790.0|400.0|2.5|0|bmscetelecom|7.6|2.0|null
+99090|877971|University of Texas, Dallas Spring 2012|false|null|31-07-0167||0.0|0.0|0.0|0.0|0|null|0.0|0.0|publication/projects:
+99090|877981|University of Texas, Dallas Spring 2012|false|null|31-07-0167||0.0|0.0|0.0|0.0|0|null|0.0|0.0|publication/projects:
+99090|877986|University of Texas, Dallas Spring 2012|false|null|31-07-0167||0.0|0.0|0.0|0.0|0|null|0.0|0.0|publication/projects:
+99090|858096|University of Texas, Dallas Spring 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99090|863774|University of Texas, Dallas Spring 2012|true|05-09-2012|15-08-2012|msitm|1190.0|790.0|400.0|2.5|0|bmscetelecom|7.6|2.0|null
+99090|858096|University of Texas, Dallas Spring 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99090|863774|University of Texas, Dallas Spring 2012|true|05-09-2012|15-08-2012|msitm|1190.0|790.0|400.0|2.5|0|bmscetelecom|7.6|2.0|null
+99090|858096|University of Texas, Dallas Spring 2012|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+99090|863774|University of Texas, Dallas Spring 2012|true|05-09-2012|15-08-2012|msitm|1190.0|790.0|400.0|2.5|0|bmscetelecom|7.6|2.0|null
+98729|855896|North Carolina State University, Raleigh|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+98729|858148|North Carolina State University, Raleigh|false|14-07-2012|01-06-2017|eepower systems|0.0|0.0|0.0|0.0|105|vtusit tumkur|78.0|0.08333333333333333|see unisearch
+98729|855896|North Carolina State University, Raleigh|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+98729|858148|North Carolina State University, Raleigh|false|14-07-2012|01-06-2017|eepower systems|0.0|0.0|0.0|0.0|105|vtusit tumkur|78.0|0.08333333333333333|see unisearch
+98729|855896|North Carolina State University, Raleigh|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+98729|858148|North Carolina State University, Raleigh|false|14-07-2012|01-06-2017|eepower systems|0.0|0.0|0.0|0.0|105|vtusit tumkur|78.0|0.08333333333333333|see unisearch
+98729|855896|North Carolina State University, Raleigh|false|31-12-2099|31-07-0167||0.0|0.0|0.0|0.0|0||0.0|0.0|
+98729|858148|North Carolina State University, Raleigh|false|14-07-2012|01-06-2017|eepower systems|0.0|0.0|0.0|0.0|105|vtusit tumkur|78.0|0.08333333333333333|see unisearch
